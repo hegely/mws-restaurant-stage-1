@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Overview](#overview)
-* [How to Run](#how-to-run))
+* [How to Run](#how-to-run)
 * [Features](#Features)
 
 ## Overview
