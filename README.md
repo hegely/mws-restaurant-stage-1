@@ -13,8 +13,8 @@
 ## How to Run
 1. Download or clone the repository to your computer from this link: https://github.com/hegely/mws-restaurant-stage-1.git
 2. From inside the new directory, launch a local client server using Python from your terminal:
-**Python 2: python -m SimpleHTTPServer 8000**
-**Python 3: python -m http.server 8000**
+* Python 2: python -m SimpleHTTPServer 8000
+* Python 3: python -m http.server 8000
 3. Visit the site at **http://localhost:8000**
 
 ## Features
